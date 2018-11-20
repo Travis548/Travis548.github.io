@@ -1,6 +1,6 @@
 function setup() {
     createCanvas(1920,1000);
-  }
+}
   
   function draw() {
     background(255);
@@ -11,5 +11,5 @@ function setup() {
     ellipse(1100,425,50,50);
     arc(1000,550,250,250,0,PI);
     line(1120,550,890,550);
-  }
+}
   
