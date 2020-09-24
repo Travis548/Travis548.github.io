@@ -1,1 +1,1 @@
-Repository for CS courses
+Repo for Computer Science courses
